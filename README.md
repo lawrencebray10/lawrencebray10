@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 ![Profile Banner](https://your-image-url.com/banner.png)
 
 ## 🚀 About Me
-I am Lawrence Bray, an aspiring Software Engineer currently based in Botswana 
-- 🔭 I’m currently working on **[Your Project]**
+I am Lawrence Bray, an aspiring Software Engineer currently based in Botswana. 
+<!--- 🔭 I’m currently working on **[Your Project]**
 - 🌱 I’m learning **[Technology/Skill]**
 - 👯 I’m looking to collaborate on **[Open Source Projects]**
 - 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- ⚡ Fun fact: **[Something interesting about you]**-->
 
 ## 🛠 Tech Stack
 
@@ -35,6 +35,7 @@ I am Lawrence Bray, an aspiring Software Engineer currently based in Botswana
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
 </div>
 
 
