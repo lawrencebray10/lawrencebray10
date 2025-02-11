@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 ![Profile Banner](https://your-image-url.com/banner.png)
 
 ## 🚀 About Me
-I am Lawrence Bray, an aspiring Software Engineer currently based in Botswana. 
+I am Lawrence Bray, an aspiring Software Engineer currently based in Botswana.
+💻 Passionate about coding, problem-solving, and building efficient applications.  
+🚀 Skilled in **Java, Kotlin, Python, JavaScript, HTML, CSS and more!**.  
+🔧 Always learning and exploring new technologies.  
+📫 Let's connect!  
 <!--- 🔭 I’m currently working on **[Your Project]**
 - 🌱 I’m learning **[Technology/Skill]**
 - 👯 I’m looking to collaborate on **[Open Source Projects]**
