@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 I am Lawrence Bray, an aspiring Software Engineer currently based in Botswana.
+
 💻 Passionate about coding, problem-solving, and building efficient applications.  
 🚀 Skilled in **Java, Kotlin, Python, JavaScript, HTML, CSS and more!**.  
 🔧 Always learning and exploring new technologies.  
