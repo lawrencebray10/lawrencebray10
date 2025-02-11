@@ -36,6 +36,8 @@ I am Lawrence Bray, an aspiring Software Engineer currently based in Botswana.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50"/>
   
 </div>
 
