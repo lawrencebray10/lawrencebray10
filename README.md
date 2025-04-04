@@ -48,7 +48,7 @@ I am Lawrence Bray, an aspiring Software Engineer currently based in Botswana.
 
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawrencebray10&show_icons=true&theme=radical)
+<img align="right" width="300px" height="250px" src="https://i.pinimg.com/originals/87/4d/ab/874dab2014a9e5fc1bcafdf831f59ac3.gif">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencebray10&layout=compact&theme=dark)
 
 
