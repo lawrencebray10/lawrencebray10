@@ -55,7 +55,12 @@ I am Lawrence Bray, an aspiring Software Engineer currently based in Botswana.
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lawrencebray10&hide=contribs,prs&show_icons=true&theme=radical"/>
  <br><br>
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lawrencebray10&theme=dark&layout=compact"/>
+ 
  </div>
+ <p align="left">
+  <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexbray45&show_icons=true&theme=dark" />-->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lawrencebray10&theme=dark" />
+</p>
 </section>
 
 ## 🔗 Connect With Me
