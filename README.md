@@ -48,11 +48,7 @@ I am Lawrence Bray, an aspiring Software Engineer currently based in Botswana.
 
 
 ## 📊 GitHub Stats
-<section>
-  <h2 align='center'>
-    My GitHub Stats <img width='50px' height='50px' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.giff">
-  </h2>
-  
+<section> 
  <div align="left">
 <img align="right" width="300px" height="250px" src="https://i.pinimg.com/originals/87/4d/ab/874dab2014a9e5fc1bcafdf831f59ac3.gif">
    
